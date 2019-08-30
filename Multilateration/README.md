@@ -1,0 +1,4 @@
+- multilateration.py: Code implementing the Information Content Heuristic (ICH) algorithm for approximating metric dimension.
+- embeddingHammingGrpahs.py: Code to generate embeddings of Hamming graphs.
+- resolving sets: Each line is a tab separated resolving set.
+- embeddings: Each line includes a k-mer followed by its embedding given a resolving set.
