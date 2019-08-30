@@ -1,0 +1,2 @@
+- word2vecHumanCDS.py: Code to train Word2Vec models on k-mers in human DNA coding sequences.
+- loc files: Word2Vec embeddings of k-mers using different dimensions and number of reading frames.
