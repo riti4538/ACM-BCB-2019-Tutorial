@@ -1,0 +1,17 @@
+Embedding of H_{2,4} with R=CT,TA,TC,GT
+AA	2	1	2	2
+AC	2	2	1	2
+AG	2	2	2	2
+AT	1	2	2	1
+CA	1	1	2	2
+CC	1	2	1	2
+CG	1	2	2	2
+CT	0	2	2	1
+GA	2	1	2	1
+GC	2	2	1	1
+GG	2	2	2	1
+GT	1	2	2	0
+TA	2	0	1	2
+TC	2	1	0	2
+TG	2	1	1	2
+TT	1	1	1	1
