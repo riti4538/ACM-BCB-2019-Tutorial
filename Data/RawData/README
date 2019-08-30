@@ -1,0 +1,2 @@
+human_cds.txt - Human coding sequences obtained from Ensembl Biomart 8/13/2019 (https://www.ensembl.org/biomart/martview/) Human genes (GRCh38.p12)
+../sequences.txt - each coding sequence from human_cds.txt on a separate line
