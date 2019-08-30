@@ -16,6 +16,6 @@ Slides, code, and examples for the Low-dimensional Representation of Biological 
   - Code to generate embeddings of k-mers based on the data in sequences.txt.
   - Embeddings of k-mers using Word2Vec
   - An NLP example of Word2Vec.
--TSNE
+- TSNE
   - Code to visualize embeddings using t-SNE.
 
