@@ -2,6 +2,7 @@
 
 Slides, code, and examples for the Low-dimensional Representation of Biological Sequence Data tutorial at the ACM-BCB 2019 conference. These materials have been partially funded by the NSF ISS BIGDATA grant No. 1836914.
 
+- ACM-BCB-2019_embedding_tutorial: slides for the Low-dimensional Representation of Biological Sequence Data tutorial at the ACM-BCB 2019 conference.
 - word2vec-examples.ipynb: a Jupyter notebook with two simple examples using Word2Vec in the context of english words and biological sequence data. Requires sequences.txt, questions-words.txt, and a pretrained Word2Vec embedding (e.g. https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit).
 - multilateration-examples.ipynb: a Jupyter notebook with two examples using multilateration to generate embeddings for DNA 3-mers and to generate and embedding for the Hamming graph over amino acid sequences of length 8. Requires multilateration.py.
 - multilateration.py: code implementing the Information Content Heuristic (ICH) algorithm for approximating the metric dimension of graphs.
